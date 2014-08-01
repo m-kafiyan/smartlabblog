@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'VidalokaRegular';
+    src: url('vidaloka-regular.eot');
+    src: url('vidaloka-regular.eot') format('embedded-opentype'),
+         url('vidaloka-regular.woff') format('woff'),
+         url('vidaloka-regular.ttf') format('truetype'),
+         url('vidaloka-regular.svg#VidalokaRegular') format('svg');
+}
