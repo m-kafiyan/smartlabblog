@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'nasimbbc';
+    src: url('../fonts/nasimbbc.eot');
+    src: url('../fonts/nasimbbc.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nasimbbc.woff') format('woff'),
+         url('../fonts/nasimbbc.ttf') format('truetype'),
+         url('../fonts/nasimbbc.svg#Sri-TSCRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+   }
 .wpgithub-profile {
 	background-color: #EEEEEE;
 	border: 1px solid #D5D5D5;
@@ -16,15 +26,20 @@
 .wpgithub-user img{
 	vertical-align: top;
 	padding:5px;
-	float: left;
+	float: right;
+	margin-right: 5px;
 }
 
 .wpgithub-user h3{
-	margin-left: 70px;
-	font-size: 15px;
+	
+	font-family: "nasimbbc";
 	line-height: 20px;
-	font-weight: 600;
-	margin-bottom: 0px;
+	font-size: 18px;
+	padding: 3px 9px 3px 0px;
+	display: block;
+	float: right;
+	font-weight: normal;
+	width: 200px;
 }
 
 .wpgithub-user h3 a{
@@ -32,10 +47,13 @@
 }
 
 .wpgithub-user p{
-	margin-left: 70px;
-	font-size: 14px;
+	float: right;
+	font-size: 13px;
 	line-height: 20px;
 	margin-bottom: 0px;
+	font-family: sans-serif;
+	margin-top: -8px;
+	margin-right: 10px;
 }
 
 .wpgithub-bblock{    

@@ -1,0 +1,2 @@
+use [Text-Advertisements] shortcode in widget or use <?php echo do_shortcode("[Text-Advertisements]"); ?> in every where of wordpress theme to see your ads
+.

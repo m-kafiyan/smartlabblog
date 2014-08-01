@@ -43,7 +43,7 @@
 
 	<?php else : ?>
 		<div class="entry-content">
-			<?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'thebox' ) ); ?>
+			<?php the_content( __( 'ادامه مطلب <span class="meta-nav">&rarr;</span>', 'thebox' ) ); ?>
 			<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'thebox' ), 'after' => '</div>' ) ); ?>
 		</div><!-- .entry-content -->
 	<?php endif; ?>
@@ -78,11 +78,11 @@
 		<?php if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) : ?>
 		<span class="sep"></span>
 		<span class="comments-link">
-			<?php comments_popup_link( __( '<span class="icon-font icon-comment-alt"></span> Leave a comment', 'thebox' ), __( '<span class="icon-font icon-comment"></span> 1 Comment', 'thebox' ), __( '<span class="icon-font icon-comments-alt"></span> % Comments', 'thebox' ) ); ?>
+			<?php comments_popup_link( __( '<span class="icon-font icon-comment-alt"></span> نظرات', 'thebox' ), __( '<span class="icon-font icon-comment"></span> 1 نظر', 'thebox' ), __( '<span class="icon-font icon-comments-alt"></span> % نظرات', 'thebox' ) ); ?>
 		</span>
 		<?php endif; ?>
 
-		<?php edit_post_link( __( 'Edit', 'thebox' ), '<span class="sep"></span><span class="edit-link">', '</span>' ); ?>
+		<?php edit_post_link( __( 'تغییر دهید', 'thebox' ), '<span class="sep"></span><span class="edit-link">', '</span>' ); ?>
 		
 	</footer><!-- .entry-meta -->
 </article><!-- #post-<?php the_ID(); ?> -->

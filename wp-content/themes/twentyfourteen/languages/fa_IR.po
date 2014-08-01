@@ -1,0 +1,443 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twelve v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-12 12:45:52+0000\n"
+"Last-Translator: admin <info@itstar.ir>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: IRAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ twentytwelve
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "این موضوع باعث تاسف است ؟!"
+
+#: 404.php:21
+#@ twentytwelve
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می رسد ما نمی توانیم مطلبی را که شما می خواهید ارائه دهیم . از قسمت جستجو جهت راهنمایی بیشتر استفاده نمایید."
+
+#: archive.php:29
+#, php-format
+#@ twentytwelve
+msgid "Daily Archives: %s"
+msgstr "بایگانی روزانه : %s"
+
+#: archive.php:31
+#, php-format
+#@ twentytwelve
+msgid "Monthly Archives: %s"
+msgstr "بایگانی ماهانه : %s"
+
+#: archive.php:31
+#@ twentytwelve
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+#@ twentytwelve
+msgid "Yearly Archives: %s"
+msgstr "بایگانی ماهانه : %s"
+
+#: archive.php:33
+#@ twentytwelve
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:35
+#@ twentytwelve
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#: author.php:32
+#, php-format
+#@ twentytwelve
+msgid "Author Archives: %s"
+msgstr "بایگانی نویسنده : %s"
+
+#: author.php:53
+#: content.php:54
+#, php-format
+#@ twentytwelve
+msgid "About %s"
+msgstr "درباره %s"
+
+#: category.php:21
+#, php-format
+#@ twentytwelve
+msgid "Category Archives: %s"
+msgstr "بایگانی دسته بندی : %s"
+
+#: comments.php:31
+#, php-format
+#@ twentytwelve
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک کاربر به %2$s نظر داده است."
+msgstr[1] "%1$s کاربر به  %2$s  نظر داده اند."
+
+#: comments.php:42
+#@ twentytwelve
+msgid "Comment navigation"
+msgstr "راهبری دیدگاه"
+
+#: comments.php:43
+#@ twentytwelve
+msgid "&larr; Older Comments"
+msgstr "&rarr; دیدگاه های قدیمی تر"
+
+#: comments.php:44
+#@ twentytwelve
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدید تر &larr;"
+
+#: comments.php:53
+#@ twentytwelve
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته است."
+
+#: content-aside.php:13
+#: content-aside.php:20
+#: content-image.php:17
+#: content-link.php:18
+#: content-quote.php:17
+#: content-status.php:15
+#: content.php:23
+#, php-format
+#@ twentytwelve
+msgid "Permalink to %s"
+msgstr "پیوند یکتا به %s"
+
+#: content-aside.php:15
+#: content-image.php:13
+#: content-link.php:14
+#: content-quote.php:13
+#: content-status.php:21
+#: content.php:39
+#@ twentytwelve
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه مطلب <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:27
+#: content.php:28
+#@ twentytwelve
+msgid "Leave a reply"
+msgstr "ارسال دیدگاه"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:27
+#: content.php:28
+#@ twentytwelve
+msgid "1 Reply"
+msgstr "یک دیدگاه"
+
+#: content-aside.php:23
+#: content-image.php:23
+#: content-link.php:21
+#: content-quote.php:20
+#: content-status.php:27
+#: content.php:28
+#@ twentytwelve
+msgid "% Replies"
+msgstr "% دیدگاه"
+
+#: content-aside.php:26
+#: content-image.php:26
+#: content-link.php:24
+#: content-page.php:21
+#: content-quote.php:23
+#: content-status.php:30
+#: content.php:47
+#: functions.php:326
+#: image.php:37
+#@ twentytwelve
+msgid "Edit"
+msgstr "ویرایش"
+
+#: content-link.php:12
+#@ twentytwelve
+msgid "Link"
+msgstr "لینک"
+
+#: content-none.php:13
+#: index.php:49
+#: search.php:34
+#@ twentytwelve
+msgid "Nothing Found"
+msgstr "هیچ موردی یافت نشد."
+
+#: content-none.php:17
+#: index.php:53
+#@ twentytwelve
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "با عرض پوزش ، نتیجه ای یافت نشد ، امکان دارد با استفاده از جستجوی سایت مطلب مشابه ای را پیدا کنید!"
+
+#: content-page.php:18
+#: content.php:40
+#: image.php:92
+#@ twentytwelve
+msgid "Pages:"
+msgstr "صفحات :"
+
+#: content.php:14
+#@ twentytwelve
+msgid "Featured post"
+msgstr "مطلب ویژه"
+
+#: content.php:58
+#, php-format
+#@ twentytwelve
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نمایش تمام پست های %s  <span class=\"meta-nav\">&larr;</span>"
+
+#: footer.php:17
+#@ twentytwelve
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:17
+#@ twentytwelve
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:17
+#, php-format
+#@ twentytwelve
+msgid "Proudly powered by %s"
+msgstr "با افتخار نیرو گرفته از %s  - ترجمه و ویرایش مجدد توسط :  <a href=\"http://www.itstar.ir\">ITstar</a>"
+
+#: functions.php:34
+#: functions.php:267
+#: single.php:20
+#@ tto
+#@ twentytwelve
+msgid "Post navigation"
+msgstr "راهبری مطالب"
+
+#: functions.php:35
+#: functions.php:268
+#@ tto
+#@ twentytwelve
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "مطالب قدیمی تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:36
+#@ tto
+msgid "Newer posts <span class=\"meta-nav\">&larr;</span>"
+msgstr ""
+
+#: functions.php:81
+#@ twentytwelve
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:137
+#@ twentytwelve
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "در"
+
+#: functions.php:142
+#@ twentytwelve
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:198
+#, php-format
+#@ twentytwelve
+msgid "Page %s"
+msgstr "صفحه %s"
+
+#: functions.php:223
+#@ twentytwelve
+msgid "Main Sidebar"
+msgstr "ستون کناری اصلی"
+
+#: functions.php:225
+#@ twentytwelve
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "در خلاصه پست ها و صفحات ظاهر می شود و در صفحه اول پوسته هایی که ابزارک خود را دارند به صورت اختیاری ظاهر می شود."
+
+#: functions.php:233
+#@ twentytwelve
+msgid "First Front Page Widget Area"
+msgstr "ابزارک صفحه اول"
+
+#: functions.php:235
+#: functions.php:245
+#@ twentytwelve
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "زمانی ظاهر می شود که صفحه ی ایستایی جهت نمایش به عنوان صفحه اول سایت انتخاب شده باشد."
+
+#: functions.php:243
+#@ twentytwelve
+msgid "Second Front Page Widget Area"
+msgstr "ابزارک دوم صفحه اصلی"
+
+#: functions.php:269
+#@ twentytwelve
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مطالب جدید تر <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:294
+#@ twentytwelve
+msgid "Pingback:"
+msgstr "پینگ :"
+
+#: functions.php:294
+#@ twentytwelve
+msgid "(Edit)"
+msgstr "ویرایش"
+
+#: functions.php:309
+#@ twentytwelve
+msgid "Post author"
+msgstr "نویسنده"
+
+#. translators: 1: date, 2: time
+#: functions.php:315
+#, php-format
+#@ twentytwelve
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: functions.php:321
+#@ twentytwelve
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در دست بررسی است."
+
+#: functions.php:330
+#@ twentytwelve
+msgid "Reply"
+msgstr "پاسخ"
+
+#: functions.php:350
+#: functions.php:353
+#@ twentytwelve
+msgid ", "
+msgstr ""
+
+#: functions.php:373
+#, php-format
+#@ twentytwelve
+msgid "View all posts by %s"
+msgstr "نمایش تمام مطالب %s"
+
+#: functions.php:482
+#@ default
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:601
+#@ default
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: header.php:37
+#@ twentytwelve
+msgid "Menu"
+msgstr "فهرست"
+
+#: search.php:18
+#, php-format
+#@ twentytwelve
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای :  %s"
+
+#: search.php:38
+#@ twentytwelve
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "با عرض تاسف ، مطلبی منطبق با موردی که شما جستجو کردید یافت نشد . لطفا کلمات دیگری را امتحان نمایید."
+
+#: single.php:21
+#@ twentytwelve
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&rarr;"
+
+#: single.php:22
+#@ twentytwelve
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&larr;"
+
+#: tag.php:21
+#, php-format
+#@ twentytwelve
+msgid "Tag Archives: %s"
+msgstr "برچسب ها : %s"
+
+#: header.php:38
+#@ twentytwelve
+msgid "Skip to content"
+msgstr "باقی ماندن در مطلب"
+
+#: image.php:26
+#, php-format
+#@ twentytwelve
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">انتشار یافته </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> در  <a href=\"%6$s\" title=\" %7$s بازگشت به \" rel=\"gallery\">%8$s</a>."
+
+#: image.php:41
+#@ twentytwelve
+msgid "&larr; Previous"
+msgstr "قبلی &rarr;"
+
+#: image.php:42
+#@ twentytwelve
+msgid "Next &rarr;"
+msgstr "&larr; بعدی"
+
+#: index.php:38
+#@ twentytwelve
+msgid "No posts to display"
+msgstr "مطلبی جهت نمایش وجود ندارد."
+
+#: index.php:42
+#, php-format
+#@ twentytwelve
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "آیا آماده هستید اولین مطلب خود را ارسال نمایید؟ <a href=\"%s\">از اینجا شروع کنید</a>"
+
+#: functions.php:379
+#, php-format
+#@ twentytwelve
+msgid "<ul><li>Category :%1$s | tages : %2$s | on : %3$s | <span class=\"by-author\"> by %4$s</span></li></ul>"
+msgstr "<ul><li>دسته بندی :%1$s | برچسب ها : %2$s | تاریخ ارسال : %3$s  <span class=\"by-author\">نویسنده : %4$s</span></li></ul>"
+
+#: functions.php:381
+#, php-format
+#@ twentytwelve
+msgid "<ul><li>category : %1$s | on : %3$s | <span class=\"by-author\"> by %4$s</span></li></ul>"
+msgstr "<ul><li>دسته بندی : %1$s | تاریخ ارسال : %3$s   <span class=\"by-author\">نویسنده : %4$s</span></li></ul>"
+
+#: functions.php:383
+#, php-format
+#@ twentytwelve
+msgid "<ul><li>on : %3$s | <span class=\"by-author\"> by %4$s</span></li></ul>"
+msgstr "<ul><li>تاریخ ارسال : %3$s   <span class=\"by-author\">نویسنده : %4$s</span></li></ul>"
+

@@ -53,17 +53,18 @@ Index:
     font-weight: normal;
     font-style: normal;
    }
-1BYekan
+
 @font-face {
-    font-family: '1BYekan';
-    src: url('fonts/1BYekan.eot');
-    src: url('fonts/1BYekan.eot?#iefix') format('embedded-opentype'),
-         url('fonts/1BYekan.woff') format('woff'),
-         url('fonts/1BYekan.ttf') format('truetype'),
-         url('fonts/1BYekan.svg#Sri-TSCRegular') format('svg');
+    font-family: 'nasimbbc';
+    src: url('fonts/nasimbbc.eot');
+    src: url('fonts/nasimbbc.eot?#iefix') format('embedded-opentype'),
+         url('fonts/nasimbbc.woff') format('woff'),
+         url('fonts/nasimbbc.ttf') format('truetype'),
+         url('fonts/nasimbbc.svg#Sri-TSCRegular') format('svg');
     font-weight: normal;
     font-style: normal;
    }
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -249,7 +250,8 @@ h1.site-title a:focus {
 	margin: 0.25em 0 0;
 	font-weight: 400;
 	color: #252525;
-	font-size: 1.714em; /* 24px */
+	font-size: 30px; /* 24px */
+	font-family: "nasimbbc"
 }
 
 .entry-header h2 {
@@ -266,8 +268,8 @@ button,
 input,
 select,
 textarea {
-	font-family: 'Oxygen', sans-serif;
-	font-size: 14px;
+	font-family: 'nasimbbc', sans-serif;
+	font-size: 16px;
 	line-height: 1.6;
 	color: #454545;
 }
@@ -336,8 +338,8 @@ address {
 
 pre {
 	background: #eee;
-	font-family: "Courier 10 Pitch", Courier, monospace;
-	font-size: 15px;
+	font-family: "nasimbbc", Courier, monospace;
+	font-size: 17px;
 	line-height: 1.6;
 	margin-bottom: 1.5em;
 	padding: 1.5em;
@@ -523,7 +525,7 @@ color: #000;
 font-weight: 700;
 border-radius: 3px;
 font-size: 0.923em;
-font-family: '1BYekan'
+font-family: 'nasimbbc'
 }
 
 input#submit:hover {
@@ -642,7 +644,7 @@ hgroup h1 a {
 .site-description {
 	color: #959595;
     display: inline-block;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'nasimbbc', sans-serif;
     font-size: 1.071em;
     letter-spacing: 1px;
 }
@@ -672,7 +674,7 @@ hgroup h1 a {
 
 .main-navigation ul {
 	list-style: none;
-	margin: 0;
+	/*margin: 0;*/
 	padding-left: 0;
 }
 
@@ -694,10 +696,10 @@ hgroup h1 a {
 text-decoration: none;
 display: block;
 padding: 5px 20px;
-margin-top: 22px;
-font-family: '1BYekan';
-font-size: 16px;
-font-weight: 700;
+margin-top: 18px;
+font-family: 'nasimbbc';
+font-size: 19px;
+
 -webkit-transition: background 0.3s linear;
         -moz-transition: background 0.3s linear;
         -ms-transition: background 0.3s linear;
@@ -721,7 +723,7 @@ font-weight: 700;
 
 .main-navigation > .menu > ul > li.page_item_has_children > a:before,
 .main-navigation > div > ul > li.menu-item-has-children > a:before {
-	font-family: "icon-fonts" !important;
+	font-family: "nasimbbc" !important;
 	font-style: normal !important;
 	font-weight: normal !important;
 	font-variant: normal !important;
@@ -1023,19 +1025,19 @@ margin: 0px 4px 0px 0px;
 }
 
 .entry-time {
-	position: relative;
+	/*position: relative;*/
 	float: right;
 	background-color: #D64316;
     -webkit-border-radius: 24px;
-    border-radius: 24px;
+    border-radius: 31px;
     color: #FFFFFF;
     font-size: 0.857em;
     font-weight: 700;
-    height: 48px;
+    height: 55px;
     letter-spacing: 1px;
     text-align: center;
     text-transform: uppercase;
-    width: 48px;
+    width: 55px;
 }
 
 .entry-time:before {
@@ -1136,7 +1138,7 @@ footer.entry-meta {
 }
 
 .entry-format-icon:before {
-	font-family: "icon-fonts" !important;
+	font-family: "nasimbbc" !important;
 	font-style: normal !important;
 	font-weight: normal !important;
 	font-variant: normal !important;
@@ -1376,9 +1378,12 @@ object {
 
 .widget-title {
 	color: #353535;
-	font-size: 1.154em;
+	font-size: 20px;
 	margin-bottom: 1em;
+	font-family: "nasimbbc";
+	font-weight: normal;
 }
+
 
 .widget ul {
 	margin: 0;
@@ -1387,12 +1392,20 @@ object {
 
 .widget li {
 	margin: 0;
-	padding: 0.5em 0;
+	padding: 2px;
 	list-style-type: none;
 }
-
+.explanation{
+	float: left;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 9px;
+	font-family: "nasimbbc";
+	font-size: 16px;
+	font-weight: normal;
+}
 .widget li a:before {
-	font-family: "icon-fonts" !important;
+	font-family: "nasimbbc" !important;
 	font-style: normal !important;
 	font-weight: normal !important;
 	font-variant: normal !important;
@@ -1421,7 +1434,7 @@ object {
 .widget_categories li a:before,
 .widget_meta li a:before,
 .widget_recent_entries li a:before {
-	content: "f";
+	content: "";
 }
 
 .widget select {
@@ -1633,13 +1646,19 @@ h2.comments-title {
 	display: inline-block;
 	padding: 0.25em 1em;
 	margin-left: 0.5em;
-	font-weight: 700;
+	
 	border: 1px solid #000;
 	background-color: #fff;
 	color: #000;	
-	text-decoration: none;	
-	font-size: 	0.923em;
+	text-decoration: none;
+	font-family: "nasimbbc";	
+	font-size: 	16px;
 	line-height: 1;
+}
+.git{
+	font-family: "nasimbbc";
+	font-size: 18px;
+	font-weight: normal;
 }
 
 #content .edit-link a:hover {

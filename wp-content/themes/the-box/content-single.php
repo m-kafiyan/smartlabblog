@@ -57,7 +57,7 @@
 			);
 		?>
 
-		<?php edit_post_link( __( 'Edit', 'thebox' ), '<span class="edit-link">', '</span>' ); ?>
+		<?php edit_post_link( __( 'تغیی دهید', 'thebox' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-meta -->
 </article><!-- #post-<?php the_ID(); ?> -->
 

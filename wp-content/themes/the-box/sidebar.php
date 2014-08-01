@@ -20,7 +20,11 @@
 						<?php wp_get_archives( array( 'type' => 'monthly' ) ); ?>
 					</ul>
 				</aside>
-
+				<aside id="archives" class="widget widget_archive">
+					<h3 class="widget-title git"><?php _e( 'Archives', 'thebox' ); ?></h3>
+					<ul>
+					<?php echo do_shortcode("[Text-Advertisements]"); ?></ul>
+				</aside>
 				<aside id="meta" class="widget widget_meta">
 					<h3 class="widget-title"><?php _e( 'Meta', 'thebox' ); ?></h3>
 					<ul>

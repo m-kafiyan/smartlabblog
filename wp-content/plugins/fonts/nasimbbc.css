@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BBCNassimRegular';
+    src: url('526b712c01cdf4eb7f15d9180567345060f43117011931.eot');
+    src: url('526b712c01cdf4eb7f15d9180567345060f43117011931.eot') format('embedded-opentype'),
+         url('526b712c01cdf4eb7f15d9180567345060f43117011931.woff') format('woff'),
+         url('526b712c01cdf4eb7f15d9180567345060f43117011931.ttf') format('truetype'),
+         url('526b712c01cdf4eb7f15d9180567345060f43117011931.svg#BBCNassimRegular') format('svg');
+}

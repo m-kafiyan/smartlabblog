@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Text-Advertisements\n"
+"POT-Creation-Date: 2013-09-06 17:50+0330\n"
+"PO-Revision-Date: 2013-09-07 00:13+0330\n"
+"Last-Translator: \n"
+"Language-Team: www.picor.ir <admin@picor.ir>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\ads\\wp-content\\plugins\\text-"
+"advertisements\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\ads\\wp-content\\plugins\\text-"
+"advertisements\n"
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-meta-boxes.php:13
+msgid "Advertisement link adress (without http://):"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-meta-boxes.php:16
+msgid "Advertisement description :"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:4
+msgid "Text advertisemets"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:5
+msgid "Text advertisemet"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:6
+msgid "Add new advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:7
+msgid "Add new text advertisements"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:8
+msgid "Edit advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:9
+msgid "Add new text advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:10
+msgid "View advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:11
+msgid "Search in text advertisements"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:12
+msgid "There is no text advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:13
+msgid "There is no text advertisement in trash"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:14
+msgid "text advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:15
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:20
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-post-type.php:21
+msgid "text advertisements"
+msgstr ""
+
+#: C:\xampp\htdocs\ads\wp-content\plugins\text-advertisements/inc/add-shortcode.php:28
+msgid "There is no text advertisement."
+msgstr ""
