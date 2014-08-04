@@ -2,7 +2,7 @@ smartlabblog
 ============
 
 <h3>Discription:</h3>
-<p>This website is for smartlab.<a href="smartlab.ir">smartlab</a> is a blog maintained by Ali Behzadian Nejad.This website sharing JAVA,ANDROID,WINDOWS PHONE and etc  tutorials, tips and hacks for mobile phone developers and java programmer.
+<p>This website is for smartlab.<a href="smartlab.ir">smartlab</a> is a blog maintained by<a href="https://github.com/alibehzadian">Ali Behzadian Nejad</a> .This website sharing JAVA,ANDROID,WINDOWS PHONE and etc  tutorials, tips and hacks for mobile phone developers and java programmer.
 </p>
 <h3>Contributing :</h3>
 <p>Check our project's source with :</p>
@@ -21,5 +21,5 @@ smartlabblog
 </ul><br>
 <h3>All rights reserved:</h3>
 <p>Please note that smartlab.ir is a curated site and that we reserve the right to refuse any listing for any reason.</p>
-<p>SmartLab by Farayan is licensed under a Creative Commons Attribution 4.0 International License.</p>
+<p>SmartLab by <a href="http://www.farayan.net/">Farayan</a> is licensed under a Creative Commons Attribution 4.0 International License.</p>
 <p>Produced by Maedehkafiyan (summer 2014).</p>
