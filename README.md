@@ -6,7 +6,7 @@ smartlabblog
 </p>
 <h3>Contributing :</h3>
 <p>Check our project's source with :</p>
-<a href="https://github.com/m-kafiyan/smartlabblog.git"></a><br>
+<a href="https://github.com/m-kafiyan/smartlabblog.git">github source</a><br>
 <h3>Building Technologies :</h3>
 <ul>
 	<li>HTML5</li>
